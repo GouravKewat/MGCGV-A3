@@ -1,0 +1,167 @@
+/*
+
+    The following CSS codes are created by the YellowPencil plugin.
+    https://yellowpencil.waspthemes.com/
+
+
+    T A B L E   O F   C O N T E N T S
+    ........................................................................
+
+    01. Global Styles
+    02. "THE UNIVERSITY" Page
+    03. "Vice Chancellor" Page
+    04. "E-LIBRARY" Page
+    05. "Diploma Admission" Page
+    06. "UG Admission" Page
+    07. "PG Admission" Page
+    08. "ACADEMIC CALENDAR" Page
+    09. "Schame" Page
+
+*/
+
+
+
+/*-----------------------------------------------*/
+/*  Global Styles                                */
+/*-----------------------------------------------*/
+body .wp-site-blocks .wp-block-list li{
+	text-align:justify;
+}
+
+body .wp-site-blocks .wp-block-heading strong{
+	font-size:21px;
+	line-height:1.6em;
+	text-align:justify;
+}
+
+body .wp-block-media-text p{
+	text-align:justify;
+}
+
+body .wp-block-pullquote blockquote p{
+	text-align:justify;
+}
+
+body .wp-block-columns .wp-block-column .wp-block-group .wp-block-group p{
+	text-align:justify;
+}
+
+body .wp-site-blocks > .wp-block-group .wp-block-group p{
+	text-align:justify;
+}
+
+body .wp-block-table tr th{
+	text-align:center;
+}
+
+body .wp-block-table tr td{
+	text-align:center;
+	-webkit-transform:translatex(0px) translatey(0px);	-ms-transform:translatex(0px) translatey(0px);	transform:translatex(0px) translatey(0px);
+	font-style:normal;
+	float:none;
+	clear:none;
+	visibility:visible;
+	opacity:1;
+}
+
+
+
+/*-----------------------------------------------*/
+/*  "THE UNIVERSITY" Page                        */
+/*-----------------------------------------------*/
+body.page-id-113 .wp-site-blocks > .wp-block-group .wp-block-group p{
+	text-align:justify;
+}
+
+
+
+/*-----------------------------------------------*/
+/*  "Vice Chancellor" Page                       */
+/*-----------------------------------------------*/
+body.page-id-318 .wp-block-media-text p{
+	text-align:justify;
+}
+
+
+
+/*-----------------------------------------------*/
+/*  "E-LIBRARY" Page                             */
+/*-----------------------------------------------*/
+body.page-id-143 .wp-block-cover p{
+	text-align:center !important;
+}
+
+body.page-id-143 .wp-block-table tr td{
+	text-transform:none;
+	font-style:normal;
+	text-align:center;
+}
+
+
+
+/*-----------------------------------------------*/
+/*  "Diploma Admission" Page                     */
+/*-----------------------------------------------*/
+body.page-id-365 .wp-block-table tr td{
+	text-align:justify;
+	-webkit-transform:translatex(0px) translatey(0px);	-ms-transform:translatex(0px) translatey(0px);	transform:translatex(0px) translatey(0px);
+}
+
+body.page-id-365 .wp-site-blocks > .wp-block-group{
+	-webkit-transform:translatex(0px) translatey(0px);	-ms-transform:translatex(0px) translatey(0px);	transform:translatex(0px) translatey(0px);
+}
+
+
+
+/*-----------------------------------------------*/
+/*  "UG Admission" Page                          */
+/*-----------------------------------------------*/
+body.page-id-356 .wp-block-table tr td{
+	text-align:justify;
+}
+
+
+
+/*-----------------------------------------------*/
+/*  "PG Admission" Page                          */
+/*-----------------------------------------------*/
+body.page-id-359 .wp-block-table tr td{
+	text-align:justify;
+}
+
+body.page-id-359 .wp-block-table tr th{
+	text-align:center;
+}
+
+
+
+/*-----------------------------------------------*/
+/*  "ACADEMIC CALENDAR" Page                     */
+/*-----------------------------------------------*/
+body.page-id-178 .wp-block-table tr td{
+	text-align:center;
+}
+
+
+
+/*-----------------------------------------------*/
+/*  "Schame" Page                                */
+/*-----------------------------------------------*/
+body.page-id-382 .wp-block-table tr td{
+	text-align:center;
+	font-weight:400;
+	-webkit-transform:translatex(0px) translatey(0px);	-ms-transform:translatex(0px) translatey(0px);	transform:translatex(0px) translatey(0px);
+	font-style:normal;
+}
+
+body.page-id-382 td > strong{
+	text-align:center;
+}
+
+body.page-id-382 .wp-block-table tbody th{
+	-webkit-transform:translatex(0px) translatey(0px);	-ms-transform:translatex(0px) translatey(0px);	transform:translatex(0px) translatey(0px);
+}
+
+body.page-id-382 .wp-block-table tbody tr{
+	text-align:center;
+}
